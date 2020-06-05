@@ -44,4 +44,4 @@ If there is anykind of problem/error, Please open an issue by mentioning your [C
 ### Copyrights
 * I have made use of [Codeforces API](https://codeforces.com/apiHelp)
 
-* You van use/modify this script without any prior permission of me.
+* You can use/modify this script without any prior permission of me.
