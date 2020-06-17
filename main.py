@@ -6,6 +6,7 @@ except ModuleNotFoundError:
     print("Installing it...")
     from os import system
     system("pip3 install requests")
+    import requests
 import random
 
 """
