@@ -34,7 +34,7 @@ Here you go😎️
 
 ### Screenshot
 
-![VCPicker](https://user-images.githubusercontent.com/52322531/83830389-a3e9c080-a702-11ea-9ad5-54199835a373.png)
+![VCPicker](https://user-images.githubusercontent.com/52322531/99874592-21d25300-2be1-11eb-86d0-81af9b7678a1.png)
 
 
 ### Issues
