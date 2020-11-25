@@ -41,7 +41,7 @@ Here you go😎️
 
 If there is anykind of problem/error, Please open an issue by mentioning your [Codeforces](https://codeforces.com/) handles and the problem/error you have encountered.
 
-### Copyrights
-* I have made use of [Codeforces API](https://codeforces.com/apiHelp)
+### Contributions
+* I feel very happy, to have someone improving this project or at least suggesting new features
 
-* You can use/modify this script without any prior permission of me.
+* Please open a new issue or Pull Request regarding your feature
