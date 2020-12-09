@@ -1,6 +1,8 @@
 # Virtual Contest Picker
 ### *for Codeforces*
 
+![](images/logo.png)
+
 ### Intro
 ---
 
@@ -34,7 +36,7 @@ Here you go😎️
 
 ### Screenshot
 
-![VCPicker](https://user-images.githubusercontent.com/52322531/99874592-21d25300-2be1-11eb-86d0-81af9b7678a1.png)
+![VCPicker](images/Screenshot.png)
 
 
 ### Issues
